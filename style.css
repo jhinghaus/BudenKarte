@@ -1,0 +1,15 @@
+header {height: 10vh;
+        width: 100vw;
+        position: fixed;
+        top: 0vh;
+        left: 0vw;}
+
+#map {
+  top: 10vh;
+  height: 400px; }
+
+.StandIcon {
+    text-align: center;
+    line-height: 20px;
+    background-color: crimson;
+  }
