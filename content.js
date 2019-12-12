@@ -5,7 +5,7 @@ var stands = {"features":[
    "geometry":
     {
 		"type": "Point",
-		"coordinates": [8.0432, 52.2772]
+		"coordinates": [8.0418, 52.27745]
   },
    "properties": {
      "name": "Beispielstand 1",
@@ -19,7 +19,7 @@ var stands = {"features":[
    "geometry":
     {
 		"type": "Point",
-		"coordinates": [8.04324, 52.2773]
+		"coordinates": [8.0418, 52.27717]
   },
    "properties": {
      "name": "Beispielstand 2",
@@ -33,7 +33,7 @@ var stands = {"features":[
    "geometry":
     {
     "type": "Point",
-    "coordinates": [8.043, 52.2774]
+    "coordinates": [8.04192, 52.27748]
   },
    "properties": {
      "name": "Beispielstand 3",
