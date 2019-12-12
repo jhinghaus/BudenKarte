@@ -1,3 +1,5 @@
+var center = [52.2772, 8.0432];
+
 var stands = {"features":[
   {"type": "Feature",
    "geometry":
