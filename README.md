@@ -5,4 +5,4 @@ This web application can be served as a static page. Content is supplied in the 
 
 This repo includes a content example for Osnabrück.
 
-![Example](https://github.com/jhinghaus/BundeKarte/example.png)
+![Example](example.png)
